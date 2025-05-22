@@ -1,6 +1,6 @@
 [project]
 name = "cfn-resource-provider-schemas"
-version = "25.5.1"
+version = "25.5.2"
 description = "AWS CFN Resource Properties JSON Schema definitions"
 requires-python = ">=3.11"
 dependencies = []
