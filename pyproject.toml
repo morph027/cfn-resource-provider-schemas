@@ -8,7 +8,9 @@ authors = [
   { name="Stefan Heitmüller", email="stefan.heitmueller@gmx.com" }
 ]
 readme = "README.md"
-repository = "https://gitlab.com/morph027/cfn-resource-provider-schemas"
+
+[project.urls]
+Repository = "https://github.com/morph027/cfn-resource-provider-schemas"
 
 [build-system]
 requires = ["hatchling"]
